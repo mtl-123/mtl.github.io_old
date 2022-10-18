@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: MeiChen Blog
-email: your-email@example.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  在这里为你的新网站写一个很棒的描述。您可以编辑此
+  _config.yml中的行。它将出现在您的文档头元数据中（用于
+  谷歌搜索结果）和您的提要中。xml站点描述。
 domain: mtl.github.io 
 baseurl: "/mtl.github.io" # 你网站的子路径，例如/blog
 url: "https://github.com/mtl-123/mtl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
